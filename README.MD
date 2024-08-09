@@ -47,15 +47,15 @@
     - Leaders listen attentively, speak candidly, and treat others respectfully.
     - Leaders `operate at all levels`, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
     - Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting.
-    - Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion.
+    - Leaders `focus on the key inputs` for their business and deliver them with the right quality and in a timely fashion.
     - Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment.
     - Leader needs to consider issues which may be harder to measure. We expect our leaders to consider non-financial impacts from our decisions, and determine what is right holistically.
 - [As a Software Engineer, you don’t need to know everything](https://www.linkedin.com/feed/update/urn:li:activity:7183337534188404736)
-    - I did not know any linux commands when I started my first job as a programmer.
-    - When I joined Amazon, I did not fully understand Git.
-    - At Amazon, my first project was in Python but I had never written a single line of code in Python.
-    - When I joined Google, I could not program in C++ but most of my work was in C++.
-    - Later when I changed team, I built a feature in Dart but I had never used Dart before.
+    - `I did not know any linux commands` when I started my first job as a programmer.
+    - When I joined Amazon, I` did not fully understand Git`.
+    - At Amazon, my first project was in Python but `I had never written a single line of code in Python`.
+    - When I joined Google, `I could not program in C++` but most of my work was in C++.
+    - Later when I changed team, I built a feature in Dart but `I had never used Dart` before.
     - As a Software Engineer, you don’t need to know everything. You just need to know where to find it when you need it.
 - [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
     - `Ask For Feedback Early`. Try to get feedback on code as soon as it makes sense.
@@ -68,7 +68,27 @@
     - `Read Ahead`.
     - `Take Meticulous Notes`
     - `Plan for Tomorrow, Today`
-  
+- [Productivity Cheat Sheet by Andrew Lokenauth](https://www.linkedin.com/in/lokenauth)
+    - `2-Minute Rule`. If a task takes less than 2 minutes to complete, do it right away.
+    - `5-Second Rule`. This helps to overcome the initial resistance to starting.
+      - Count backwards **5-4-3-2-1** and just force yourself to take action.
+    - `1-3-5 Rule`. At the start of each day, identify:
+         - **1** big thing to accomplish,
+         - **3** medium things, and
+         - **5** small tasks.
+    - `Pomodoro Technique`. This is based on the idea that frequent breaks improve mental agility and maintain your focus on the task at hand.
+      - Set a timer for **25 minutes and focus** on one task.
+      - After the timer rings, take a **5-minute break**.
+      - Repeat this cycle four times, then take a longer break of **20-30 minutes**.
+    - `80/20 Rule`. By focusing on high-impact tasks, you can achieve more with less effort.
+      - **20%** of your efforts give you **80%** of the results. 
+      - So focus on that **20%** of super important stuff first.
+    - `Break Tasks Into Pieces`. You'll feel less overwhelmed and more motivated to tackle each part of the task.
+    - `Eat the Frog`. By completing your hardest task early, you build momentum for the rest of the day.
+      - Tackle your most challenging task first thing in the morning.
+    - `Not To-Do List`. This frees up time and energy for more important tasks!
+      - Identify tasks or activities that are not essential or that can be delegated, and stop doing them.
+    - `Eliminate Multitasking`. Focus on one task at a time to improve concentration.
+
 ---
 
-![productivity_cheat.png](images/productivity_cheat.png)
