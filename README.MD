@@ -16,6 +16,9 @@
 
 ### 🎬 Must watch videos:
 - [My Career Advice For Anyone Feeling Stuck In Life](https://youtu.be/Jl4Waz8TmyU?si=tDtsY48Z0d_pCFlY)
+- [This is the key to consistently Winning](https://www.youtube.com/watch?v=HcJ5wmF5OAE&list=PLM6KIGCdxNrDluSzlvbXxUZvlLQ1JaUGH&index=8)
+  - Making errors tells your nervous system that something needs to change
+- [Learn faster in 4 steps](https://www.youtube.com/watch?v=30sc4TpZtt8&list=PLM6KIGCdxNrDluSzlvbXxUZvlLQ1JaUGH&index=11)
 
 --- 
 
@@ -35,22 +38,6 @@
 - [Як ставити цілі та досягати їх 🇺🇦](https://telegraf.design/yak-stavyty-tsili)
 - [The Trimodal Nature of Tech Compensation Revisited](https://newsletter.pragmaticengineer.com/p/trimodal-nature-of-tech-compensation)
 - [The Amazon Leadership Principles - A Complete Interview Guide](https://www.scarletink.com/p/interviewing-at-amazon-leadership-principles)
-    - Leaders `start with the customer` and work backwards.
-    - Leaders are `owners`.
-    - Leaders expect and require innovation and invention from their teams and always find ways to simplify.
-    - Leaders are `right a lot`. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
-    - Leaders are `never done learning` and always seek to improve themselves. They are curious about new possibilities and act to explore them.
-    - Leaders `raise the performance` bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others
-    - Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high quality products, services and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
-    - Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
-    - Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
-    - Accomplish `more with less`. Constraints breed resourcefulness, self-sufficiency and invention. There are no extra points for growing headcount, budget size or fixed expense.
-    - Leaders listen attentively, speak candidly, and treat others respectfully.
-    - Leaders `operate at all levels`, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
-    - Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting.
-    - Leaders `focus on the key inputs` for their business and deliver them with the right quality and in a timely fashion.
-    - Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment.
-    - Leader needs to consider issues which may be harder to measure. We expect our leaders to consider non-financial impacts from our decisions, and determine what is right holistically.
 - [As a Software Engineer, you don’t need to know everything](https://www.linkedin.com/feed/update/urn:li:activity:7183337534188404736)
     - `I did not know any linux commands` when I started my first job as a programmer.
     - When I joined Amazon, I` did not fully understand Git`.
