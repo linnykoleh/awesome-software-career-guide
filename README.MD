@@ -4,7 +4,17 @@
 > I want to highlight the most important advices, cheat-codes, tools, books, videos, and articles that can help you to grow as a Software Engineer.
 > If you have any suggestions, please, let me know. I will be happy to add them here.
 
-### Must read articles:
+### 📚 Must read books:
+- [Software Engineering at Google: Lessons Learned from Programming Over Time by Titus Winters](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791?tag=interior0d3-20)
+- [The Manager's Path by Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897?tag=interior0d3-20)
+- [Mindset: How You Can Fulfill Your Potential by Dweck Carol](https://www.amazon.com/Mindset-How-Fulfill-Your-Potential/dp/1780332009?tag=interior0d3-20)
+- [Engineers Survival Guide: Advice, tactics, and tricks by Merih Taze](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK?tag=interior0d3-20)
+- [Learning How to Learn by Barbara Oakley](https://www.amazon.com/Learning-How-Learn-Spending-Studying/dp/0143132547?tag=interior0d3-20)
+- [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692?tag=interior0d3-20)
+
+--- 
+
+### 📝 Must read articles:
 - [Career advice that no one asked me for](https://www.linkedin.com/posts/gokulnathsridhar_what-i-consider-good-career-advice-that-activity-7216650274109558784-KoT9/?utm_source=share&utm_medium=member_desktop)
     - `Ownership`: Ownership is everything. Ownership is never saying "My job is done. Now people need to do theirs."; it's saying "My job is not done until THE job is done".
     - `You should manage your manager`. Your manager shouldn't be managing you. This has been written enough but it needs to be said again. Because people (esp junior-mid folks) expect their managers to tell them the next steps/what to do.
@@ -44,15 +54,9 @@
     - As a Software Engineer, you don’t need to know everything. You just need to know where to find it when you need it.
 - [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
 
-### Must read books:
-- [Software Engineering at Google: Lessons Learned from Programming Over Time by Titus Winters](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791?tag=interior0d3-20)
-- [The Manager's Path by Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897?tag=interior0d3-20)
-- [Mindset: How You Can Fulfill Your Potential by Dweck Carol](https://www.amazon.com/Mindset-How-Fulfill-Your-Potential/dp/1780332009?tag=interior0d3-20)
-- [Engineers Survival Guide: Advice, tactics, and tricks by Merih Taze](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK?tag=interior0d3-20)
-- [Learning How to Learn by Barbara Oakley](https://www.amazon.com/Learning-How-Learn-Spending-Studying/dp/0143132547?tag=interior0d3-20)
-- [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692?tag=interior0d3-20)
+---
 
-### Must watch videos:
+### 🎬 Must watch videos:
 - [My Career Advice For Anyone Feeling Stuck In Life](https://youtu.be/Jl4Waz8TmyU?si=tDtsY48Z0d_pCFlY)
 
 
