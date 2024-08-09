@@ -12,6 +12,11 @@
 - [Learning How to Learn by Barbara Oakley](https://www.amazon.com/Learning-How-Learn-Spending-Studying/dp/0143132547?tag=interior0d3-20)
 - [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692?tag=interior0d3-20)
 
+---
+
+### 🎬 Must watch videos:
+- [My Career Advice For Anyone Feeling Stuck In Life](https://youtu.be/Jl4Waz8TmyU?si=tDtsY48Z0d_pCFlY)
+
 --- 
 
 ### 📝 Must read articles:
@@ -54,10 +59,7 @@
     - As a Software Engineer, you don’t need to know everything. You just need to know where to find it when you need it.
 - [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
 
----
 
-### 🎬 Must watch videos:
-- [My Career Advice For Anyone Feeling Stuck In Life](https://youtu.be/Jl4Waz8TmyU?si=tDtsY48Z0d_pCFlY)
 
 
 ---
