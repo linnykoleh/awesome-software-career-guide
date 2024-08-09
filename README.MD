@@ -58,10 +58,17 @@
     - Later when I changed team, I built a feature in Dart but I had never used Dart before.
     - As a Software Engineer, you don’t need to know everything. You just need to know where to find it when you need it.
 - [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
-
-
-
-
+    - `Ask For Feedback Early`. Try to get feedback on code as soon as it makes sense.
+    - `Be a Rubber Ducky, Find a Rubber Ducky`. Thinking out loud gives you clarity around a problem
+    - `Get End-to-End First`. When working on a new problem or feature, it's easy to dive right into the nitty gritty details. Instead, I've found it’s better to get end-to-end as quickly as possible
+    - `Step Away From the Keyboard`. When you're having a tough time managing a complex design or problem, you need to stop looking at your screen
+    - `Automate To Get More Done`.
+    - `You Can DRY Off Later`.
+    - `Stay Active`. Get a good stretch in a few times a day and walk around from time to time. Sitting for long periods of time causes a lot of developers back and shoulder pain.
+    - `Read Ahead`.
+    - `Take Meticulous Notes`
+    - `Plan for Tomorrow, Today`
+  
 ---
 
 ![productivity_cheat.png](images/productivity_cheat.png)
