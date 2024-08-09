@@ -1,0 +1,61 @@
+# Practical advice for Software Engineers who want to grow and build a successful career.
+
+> Here I collect the most useful resources and update them regularly.
+> I want to highlight the most important advices, cheat-codes, tools, books, videos, and articles that can help you to grow as a Software Engineer.
+> If you have any suggestions, please, let me know. I will be happy to add them here.
+
+### Must read articles:
+- [Career advice that no one asked me for](https://www.linkedin.com/posts/gokulnathsridhar_what-i-consider-good-career-advice-that-activity-7216650274109558784-KoT9/?utm_source=share&utm_medium=member_desktop)
+    - `Ownership`: Ownership is everything. Ownership is never saying "My job is done. Now people need to do theirs."; it's saying "My job is not done until THE job is done".
+    - `You should manage your manager`. Your manager shouldn't be managing you. This has been written enough but it needs to be said again. Because people (esp junior-mid folks) expect their managers to tell them the next steps/what to do.
+    - `Work backwards`. Always: People default to 'working forward' from the status quo. But it's better to work backwards from an outcome/deadline. The people who do the latter tend to find creative ways to overcome roadblocks and find it easier to project manage stuff.
+    - `Speaking of project management`, if you can't get your own work/calendar in order, it's going to be massively hard to win. As you grow senior, you're going to be worrying about 28 things at once. Learn to manage threads (GTD is a good framework; GTD also is working backwards).
+    - `Learn to write well`. Even if you aren't good at anything else, you'll still be a P75 worker. Good writing skills are underrated and people who're really good at what they do can still struggle to progress because they can't articulate well. ([On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548?tag=interior0d3-20) is a killer book)
+    - `Nobody likes people who whine`. Or people who optimize only for themselves. I have NEVER seen these two types of people get very far. You want to bring positive vibes and you want your company, broader team, your team, and then you, to win.
+    - `Politics is real`. Optics matter. But there's two kinds: positive projection of your work and undermining of others' work. Again, there's a way to rise above politics (see pt 5) and focus on positive optics. Because people who undermine others don't get too far.
+    - `Do serious work without being a serious person`. Taking yourself and your pretty little charters/domains too seriously simply shows you are insecure in your skin.
+    - `Processes are good`. Rituals are good. Don't be fooled into thinking you are any different and can get by without processes. For yourself, for your team, for cross-team work - there's no substitute to good process.
+    - `But good process != good outcomes`. Working backwards from an outcome + Having good processes/rituals to guide you can be a powerful combo.
+    - `Growth comes from working on problems that matter to the business`. If your charter is not in the top 3 priorities of the org, you're going to find it hard to grow even if you excel in your role. It's an unfortunate reality.
+- [Як ставити цілі та досягати їх 🇺🇦](https://telegraf.design/yak-stavyty-tsili)
+- [The Amazon Leadership Principles - A Complete Interview Guide](https://www.scarletink.com/p/interviewing-at-amazon-leadership-principles)
+    - Leaders `start with the customer` and work backwards.
+    - Leaders are `owners`.
+    - Leaders expect and require innovation and invention from their teams and always find ways to simplify.
+    - Leaders are `right a lot`. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
+    - Leaders are `never done learning` and always seek to improve themselves. They are curious about new possibilities and act to explore them.
+    - Leaders `raise the performance` bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others
+    - Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high quality products, services and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
+    - Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
+    - Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
+    - Accomplish `more with less`. Constraints breed resourcefulness, self-sufficiency and invention. There are no extra points for growing headcount, budget size or fixed expense.
+    - Leaders listen attentively, speak candidly, and treat others respectfully.
+    - Leaders `operate at all levels`, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
+    - Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting.
+    - Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion.
+    - Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment.
+    - Leader needs to consider issues which may be harder to measure. We expect our leaders to consider non-financial impacts from our decisions, and determine what is right holistically.
+- [As a Software Engineer, you don’t need to know everything](https://www.linkedin.com/feed/update/urn:li:activity:7183337534188404736)
+    - I did not know any linux commands when I started my first job as a programmer.
+    - When I joined Amazon, I did not fully understand Git.
+    - At Amazon, my first project was in Python but I had never written a single line of code in Python.
+    - When I joined Google, I could not program in C++ but most of my work was in C++.
+    - Later when I changed team, I built a feature in Dart but I had never used Dart before.
+    - As a Software Engineer, you don’t need to know everything. You just need to know where to find it when you need it.
+- [Practical Advice for New Software Engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
+
+### Must read books:
+- [Software Engineering at Google: Lessons Learned from Programming Over Time by Titus Winters](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791?tag=interior0d3-20)
+- [The Manager's Path by Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897?tag=interior0d3-20)
+- [Mindset: How You Can Fulfill Your Potential by Dweck Carol](https://www.amazon.com/Mindset-How-Fulfill-Your-Potential/dp/1780332009?tag=interior0d3-20)
+- [Engineers Survival Guide: Advice, tactics, and tricks by Merih Taze](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK?tag=interior0d3-20)
+- [Learning How to Learn by Barbara Oakley](https://www.amazon.com/Learning-How-Learn-Spending-Studying/dp/0143132547?tag=interior0d3-20)
+- [Deep Work: Rules for Focused Success in a Distracted World by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692?tag=interior0d3-20)
+
+### Must watch videos:
+- [My Career Advice For Anyone Feeling Stuck In Life](https://youtu.be/Jl4Waz8TmyU?si=tDtsY48Z0d_pCFlY)
+
+
+---
+
+![productivity_cheat.png](images/productivity_cheat.png)
