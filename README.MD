@@ -33,6 +33,7 @@
     - `But good process != good outcomes`. Working backwards from an outcome + Having good processes/rituals to guide you can be a powerful combo.
     - `Growth comes from working on problems that matter to the business`. If your charter is not in the top 3 priorities of the org, you're going to find it hard to grow even if you excel in your role. It's an unfortunate reality.
 - [Як ставити цілі та досягати їх 🇺🇦](https://telegraf.design/yak-stavyty-tsili)
+- [The Trimodal Nature of Tech Compensation Revisited](https://newsletter.pragmaticengineer.com/p/trimodal-nature-of-tech-compensation)
 - [The Amazon Leadership Principles - A Complete Interview Guide](https://www.scarletink.com/p/interviewing-at-amazon-leadership-principles)
     - Leaders `start with the customer` and work backwards.
     - Leaders are `owners`.
@@ -89,6 +90,10 @@
     - `Not To-Do List`. This frees up time and energy for more important tasks!
       - Identify tasks or activities that are not essential or that can be delegated, and stop doing them.
     - `Eliminate Multitasking`. Focus on one task at a time to improve concentration.
+- [How I Received $800,000 Compensation as a Meta Staff Engineer](https://www.jointaro.com/blog/how-i-became-an-800k-engineer/?ref=dailydev)
+- [Manage Up To Accelerate Your Career](https://read.developingskills.fyi/p/manage-up-to-accelerate-your-career)
+- [Are You an Architect?](https://www.yegor256.com/2018/06/26/are-you-an-architect.html)
+- [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus)
 
 ---
 
