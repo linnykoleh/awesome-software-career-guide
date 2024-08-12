@@ -83,6 +83,11 @@
 - [Manage Up To Accelerate Your Career](https://read.developingskills.fyi/p/manage-up-to-accelerate-your-career)
 - [Are You an Architect?](https://www.yegor256.com/2018/06/26/are-you-an-architect.html)
 - [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus)
+- [The Ultimate Guide to the Ivy Lee Method](https://tweek.so/calendar/ivy-lee-method)
+  - `Rule 1` - Make a list of your six most important tasks—in order of most important to least important—for the next day.
+  - `Rule 2` - Never start the next task until you have fully completed the one before it.
+  - `Rule 3` - Move unfinished tasks to the next day, maintaining the prioritization you have set. Their priority will always be higher than that of the tasks in the new list.
+  - `Rule 4` - Repeat this process every day.
 
 ---
 
