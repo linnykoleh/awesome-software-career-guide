@@ -21,6 +21,7 @@
 - [Learn faster in 4 steps](https://www.youtube.com/watch?v=30sc4TpZtt8&list=PLM6KIGCdxNrDluSzlvbXxUZvlLQ1JaUGH&index=11)
 - [The Science of Setting & Achieving Goals](https://www.youtube.com/watch?v=t1F7EEGPQwo&list=PLM6KIGCdxNrDwvPleKNODhWFFJhPNmz99&index=3)
 - [Using Failures, Movement & Balance to Learn Faster](https://www.youtube.com/watch?v=hx3U64IXFOY&list=PLM6KIGCdxNrDwvPleKNODhWFFJhPNmz99&index=6)
+- [Learn the soft skills that will make you a productive and effective software developer](https://www.youtube.com/watch?v=C_jQahOnGUU)
 
 --- 
 
