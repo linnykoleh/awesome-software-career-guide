@@ -89,6 +89,9 @@
   - `Rule 2` - Never start the next task until you have fully completed the one before it.
   - `Rule 3` - Move unfinished tasks to the next day, maintaining the prioritization you have set. Their priority will always be higher than that of the tasks in the new list.
   - `Rule 4` - Repeat this process every day.
+- [100+ Resources to become a great engineering leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+
+
 
 ---
 
