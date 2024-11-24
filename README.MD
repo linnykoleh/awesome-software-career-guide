@@ -22,6 +22,7 @@
 - [The Science of Setting & Achieving Goals](https://www.youtube.com/watch?v=t1F7EEGPQwo&list=PLM6KIGCdxNrDwvPleKNODhWFFJhPNmz99&index=3)
 - [Using Failures, Movement & Balance to Learn Faster](https://www.youtube.com/watch?v=hx3U64IXFOY&list=PLM6KIGCdxNrDwvPleKNODhWFFJhPNmz99&index=6)
 - [Learn the soft skills that will make you a productive and effective software developer](https://www.youtube.com/watch?v=C_jQahOnGUU)
+- [7 Years of Software Engineering Advice in 18 Minutes](https://www.youtube.com/watch?v=BCYlUmzMmyc&ab_channel=Bgo)
 
 --- 
 
@@ -90,8 +91,6 @@
   - `Rule 3` - Move unfinished tasks to the next day, maintaining the prioritization you have set. Their priority will always be higher than that of the tasks in the new list.
   - `Rule 4` - Repeat this process every day.
 - [100+ Resources to become a great engineering leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
-
-
 
 ---
 
